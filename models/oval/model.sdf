@@ -27,6 +27,12 @@
             <size>1 1 1</size>
           </box>
         </geometry>
+	<material>
+          <script>
+	    <uri>model://oval/materials/oval_texture.material</uri>
+	    <name>OvalTexture</name>
+	  </script>
+	</material>
       </visual>
     </link>
   </model>
